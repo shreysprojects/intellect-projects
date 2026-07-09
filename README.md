@@ -25,6 +25,33 @@ server — all automated, in Python).
 
 ---
 
+## Screenshots
+
+<!-- Drop PNG files into the screenshots/ folder using these exact names and
+     they appear here automatically. Suggested shots:
+       web-ui.png      — the web UI start page (both tabs visible)
+       2a-cleanup.png  — a messy note turned into a structured record
+       3a-blocked.png  — a dangerous translation blocked, [safety gate] reasons shown
+       3a-send.png     — a clean translation passing as "Send"                    -->
+
+**The web UI — both tools on one page**
+
+![Web UI](screenshots/web-ui.png)
+
+**2A: a messy note becomes a structured record**
+
+![2A cleanup result](screenshots/2a-cleanup.png)
+
+**3A: an invented refund promise caught and blocked — with the safety-gate reasons shown**
+
+![3A blocked translation](screenshots/3a-blocked.png)
+
+**3A: a faithful translation passing as "Send"**
+
+![3A clean translation](screenshots/3a-send.png)
+
+---
+
 ## The hard problem
 
 A message that goes **to a customer** can't be wrong. But the deployment target
